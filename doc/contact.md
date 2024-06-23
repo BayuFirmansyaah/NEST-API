@@ -195,6 +195,7 @@ Response Body (Success) :
     ],
     "status" : 200
 }
+```
 
 Response Body (Failed) : 
 ```json
