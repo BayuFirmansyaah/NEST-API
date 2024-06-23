@@ -67,6 +67,7 @@ Response Body (Success) :
     ],
     "status" : 200
 }
+```
 
 Response Body (Failed) : 
 ```json
@@ -95,7 +96,7 @@ Response Body (Success) :
     },
     "status" : 200
 }
-
+```
 
 Response Body (Failed) : 
 ```json
@@ -120,6 +121,7 @@ Request Body :
     "email" : "newEmail@gmail.com",
     "phone" : "+62xxxxxxxxx",
 }
+```
 
 Response Body (Success) : 
 ```json
@@ -133,6 +135,7 @@ Response Body (Success) :
     },
     "status" : 200
 }
+```
 
 Response Body (Failed) : 
 ```json
@@ -155,6 +158,7 @@ Response Body (Success) :
     "data" : "Contact removed",
     "status" : 200
 }
+```
 
 Response Body (Failed) : 
 ```json
